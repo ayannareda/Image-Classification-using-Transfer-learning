@@ -33,3 +33,8 @@ Finally, we will train our model on already split training and validation data.
 After getting our model trained, we will plot our results.
 Training Accuracy vs Validation Accuracy
 Training Loss vs Validation Loss
+
+After training <br />
+We reached :- <br />
+Training accuracy = 97.51%    <br />
+Validation accuracy = 86.98%
